@@ -1,0 +1,501 @@
+age,gender,city,education_level,field_of_study,programming_experience,motivation,accepted
+26,Female,Oujda,Bachelor,STEM,8,Career shift,No
+23,Male,Casablanca,Bachelor,Non-STEM,8,Student,No
+26,Male,Oujda,Bachelor,Non-STEM,5,Career shift,Yes
+30,Other,Casablanca,Bachelor,STEM,10,Student,Yes
+22,Male,Rabat,Master,STEM,5,Career shift,Yes
+22,Male,Tanger,Bachelor,Non-STEM,7,Student,No
+31,Male,Casablanca,PhD,STEM,5,Student,No
+27,Male,Oujda,Master,Non-STEM,0,Student,No
+21,Male,Oujda,High school,STEM,3,Student,No
+26,Male,Fès,Master,STEM,6,Student,Yes
+21,Male,Casablanca,High school,Non-STEM,1,Student,No
+21,Male,Casablanca,Master,STEM,8,Career shift,Yes
+25,Male,Marrakech,Bachelor,Non-STEM,7,Entrepreneur,Yes
+16,Female,Dakhla,Master,STEM,7,Career shift,Yes
+16,Male,Marrakech,Master,STEM,6,Student,No
+21,Male,Casablanca,Master,Non-STEM,3,Student,Yes
+19,Male,Marrakech,Master,STEM,1,Student,Yes
+25,Other,Fès,Bachelor,Non-STEM,2,Career shift,Yes
+19,Male,Tanger,High school,STEM,5,Student,Yes
+17,Male,Casablanca,Bachelor,STEM,4,Upskilling,No
+30,Female,Tanger,High school,Non-STEM,7,Student,No
+22,Female,Fès,Bachelor,STEM,5,Student,No
+24,Female,Dakhla,Bachelor,STEM,5,Student,No
+17,Male,Rabat,PhD,STEM,0,Career shift,Yes
+21,Male,Marrakech,Bachelor,STEM,3,Student,No
+24,Female,Laayoune,Master,STEM,4,Entrepreneur,Yes
+18,Female,Casablanca,High school,Non-STEM,10,Career shift,Yes
+25,Male,Laayoune,Master,Non-STEM,2,Career shift,Yes
+21,Male,Agadir,Master,Non-STEM,8,Career shift,Yes
+22,Male,Casablanca,Bachelor,Non-STEM,0,Student,Yes
+21,Female,Rabat,Bachelor,Non-STEM,5,Upskilling,No
+32,Male,Agadir,Master,Non-STEM,5,Career shift,No
+23,Male,Casablanca,High school,STEM,9,Student,Yes
+19,Male,Marrakech,Bachelor,Non-STEM,4,Career shift,Yes
+27,Male,Rabat,Bachelor,Non-STEM,4,Upskilling,No
+18,Male,Marrakech,High school,STEM,9,Career shift,Yes
+24,Male,Casablanca,Bachelor,STEM,4,Student,Yes
+16,Male,Oujda,High school,STEM,5,Student,No
+18,Male,Dakhla,High school,STEM,7,Student,Yes
+24,Male,Dakhla,High school,Non-STEM,1,Student,Yes
+27,Male,Tanger,PhD,STEM,5,Student,No
+24,Male,Casablanca,Bachelor,STEM,0,Student,Yes
+23,Male,Tanger,PhD,Non-STEM,3,Career shift,No
+22,Male,Casablanca,Bachelor,STEM,9,Career shift,No
+17,Male,Casablanca,Bachelor,STEM,2,Student,Yes
+20,Male,Rabat,Bachelor,STEM,8,Career shift,No
+21,Male,Fès,Bachelor,Non-STEM,2,Career shift,No
+28,Other,Tanger,High school,Non-STEM,5,Student,Yes
+25,Male,Agadir,Bachelor,STEM,0,Upskilling,No
+16,Female,Rabat,High school,Non-STEM,5,Student,Yes
+25,Male,Casablanca,Bachelor,STEM,3,Career shift,No
+22,Female,Dakhla,Bachelor,Non-STEM,7,Career shift,Yes
+20,Female,Rabat,High school,Non-STEM,10,Upskilling,No
+26,Male,Fès,High school,Non-STEM,8,Career shift,Yes
+28,Male,Casablanca,Master,STEM,3,Career shift,No
+28,Male,Tanger,Bachelor,Non-STEM,9,Student,Yes
+20,Male,Agadir,High school,Non-STEM,9,Student,No
+22,Female,Casablanca,PhD,STEM,5,Student,No
+25,Female,Casablanca,High school,Non-STEM,0,Career shift,No
+28,Female,Agadir,Bachelor,STEM,3,Career shift,No
+21,Male,Agadir,PhD,Non-STEM,6,Upskilling,No
+23,Female,Casablanca,High school,STEM,0,Career shift,No
+19,Female,Dakhla,High school,Non-STEM,7,Student,No
+18,Male,Casablanca,High school,STEM,9,Student,Yes
+27,Male,Rabat,Bachelor,STEM,10,Student,No
+30,Female,Dakhla,High school,STEM,5,Student,No
+23,Male,Rabat,Bachelor,STEM,4,Career shift,No
+28,Female,Marrakech,High school,STEM,9,Student,No
+25,Male,Rabat,Bachelor,STEM,10,Upskilling,No
+21,Female,Casablanca,PhD,STEM,8,Upskilling,Yes
+25,Male,Dakhla,Master,STEM,1,Career shift,No
+30,Male,Rabat,Bachelor,STEM,4,Career shift,No
+23,Male,Laayoune,Bachelor,Non-STEM,5,Upskilling,No
+31,Female,Casablanca,Bachelor,STEM,6,Student,No
+16,Female,Casablanca,Bachelor,Non-STEM,4,Upskilling,No
+27,Male,Casablanca,Bachelor,Non-STEM,8,Career shift,No
+24,Male,Agadir,High school,Non-STEM,0,Student,No
+22,Female,Rabat,Master,STEM,6,Student,No
+24,Male,Oujda,Bachelor,Non-STEM,9,Student,Yes
+16,Female,Fès,High school,STEM,6,Student,No
+23,Male,Dakhla,Bachelor,STEM,3,Career shift,No
+25,Male,Casablanca,Bachelor,STEM,8,Student,Yes
+30,Male,Oujda,Master,Non-STEM,10,Career shift,Yes
+21,Male,Tanger,Master,STEM,4,Student,No
+20,Female,Tanger,Master,STEM,3,Upskilling,Yes
+21,Male,Oujda,High school,Non-STEM,6,Student,No
+28,Male,Tanger,Bachelor,Non-STEM,3,Entrepreneur,No
+25,Female,Marrakech,Bachelor,STEM,2,Career shift,No
+21,Male,Casablanca,High school,STEM,8,Student,No
+26,Male,Casablanca,High school,Non-STEM,10,Upskilling,Yes
+24,Female,Laayoune,Master,STEM,7,Career shift,No
+28,Female,Marrakech,High school,STEM,0,Career shift,No
+20,Male,Tanger,Bachelor,STEM,6,Student,No
+22,Female,Fès,High school,Non-STEM,8,Career shift,Yes
+22,Female,Casablanca,High school,Non-STEM,7,Student,No
+17,Male,Casablanca,High school,Non-STEM,7,Upskilling,Yes
+25,Male,Agadir,PhD,Non-STEM,5,Student,Yes
+25,Female,Rabat,Master,STEM,10,Career shift,Yes
+24,Female,Casablanca,Master,STEM,3,Student,Yes
+22,Male,Fès,Bachelor,STEM,7,Student,No
+17,Female,Casablanca,High school,STEM,2,Career shift,Yes
+22,Female,Marrakech,Bachelor,STEM,8,Student,No
+22,Male,Casablanca,Bachelor,Non-STEM,1,Student,No
+20,Male,Tanger,Master,STEM,1,Student,No
+23,Male,Rabat,High school,Non-STEM,6,Career shift,Yes
+25,Female,Fès,Bachelor,STEM,9,Student,No
+32,Male,Casablanca,High school,STEM,3,Career shift,No
+24,Male,Casablanca,Bachelor,STEM,9,Career shift,No
+25,Female,Rabat,Master,STEM,7,Upskilling,Yes
+23,Female,Fès,Bachelor,Non-STEM,8,Student,No
+16,Male,Marrakech,Bachelor,STEM,6,Career shift,No
+23,Female,Casablanca,Bachelor,STEM,4,Career shift,No
+24,Male,Agadir,Bachelor,STEM,7,Career shift,Yes
+35,Female,Oujda,Master,STEM,3,Career shift,No
+23,Male,Tanger,Master,STEM,1,Career shift,Yes
+25,Male,Casablanca,Master,Non-STEM,10,Career shift,Yes
+23,Female,Fès,Master,Non-STEM,5,Student,No
+18,Male,Casablanca,Bachelor,STEM,8,Student,Yes
+29,Male,Casablanca,Bachelor,Non-STEM,0,Student,Yes
+27,Female,Dakhla,Bachelor,STEM,10,Student,Yes
+27,Female,Casablanca,High school,STEM,9,Career shift,No
+19,Female,Fès,Master,STEM,6,Upskilling,No
+30,Female,Marrakech,High school,STEM,9,Entrepreneur,No
+17,Male,Agadir,Master,STEM,8,Entrepreneur,No
+26,Male,Marrakech,Bachelor,STEM,9,Entrepreneur,Yes
+33,Male,Casablanca,Bachelor,STEM,8,Upskilling,No
+19,Male,Rabat,Bachelor,STEM,9,Student,No
+21,Female,Fès,Master,STEM,10,Career shift,Yes
+24,Male,Casablanca,Bachelor,Non-STEM,2,Student,No
+21,Male,Rabat,Bachelor,STEM,10,Student,No
+17,Male,Casablanca,High school,STEM,4,Student,Yes
+24,Female,Casablanca,Bachelor,STEM,7,Student,Yes
+19,Male,Rabat,High school,STEM,7,Career shift,Yes
+26,Male,Casablanca,Master,STEM,3,Student,Yes
+19,Male,Marrakech,Bachelor,STEM,10,Upskilling,No
+30,Male,Agadir,Bachelor,STEM,10,Student,No
+20,Male,Tanger,High school,STEM,0,Student,No
+22,Female,Casablanca,High school,STEM,0,Career shift,No
+27,Female,Casablanca,Bachelor,STEM,3,Student,Yes
+18,Male,Casablanca,High school,STEM,5,Upskilling,No
+25,Female,Marrakech,High school,STEM,7,Student,No
+29,Female,Agadir,High school,STEM,5,Entrepreneur,No
+16,Female,Casablanca,Master,Non-STEM,8,Student,No
+24,Male,Laayoune,Master,STEM,8,Student,No
+25,Male,Casablanca,Bachelor,STEM,1,Career shift,No
+27,Male,Fès,Bachelor,STEM,9,Student,No
+18,Male,Agadir,Bachelor,Non-STEM,0,Student,Yes
+18,Female,Oujda,Master,STEM,1,Student,Yes
+26,Female,Agadir,Bachelor,STEM,4,Student,Yes
+25,Female,Tanger,High school,STEM,3,Upskilling,Yes
+25,Male,Rabat,High school,STEM,3,Career shift,No
+25,Male,Oujda,High school,STEM,8,Entrepreneur,No
+20,Other,Casablanca,Bachelor,STEM,10,Career shift,No
+25,Female,Laayoune,Master,Non-STEM,7,Student,No
+25,Male,Fès,High school,STEM,5,Career shift,No
+20,Female,Oujda,High school,Non-STEM,0,Student,Yes
+32,Female,Fès,High school,Non-STEM,1,Student,Yes
+26,Male,Marrakech,PhD,STEM,5,Career shift,No
+18,Male,Fès,Bachelor,STEM,10,Student,No
+26,Male,Tanger,Master,STEM,1,Upskilling,No
+19,Male,Casablanca,Bachelor,STEM,9,Career shift,Yes
+27,Male,Casablanca,Bachelor,STEM,4,Entrepreneur,Yes
+29,Female,Casablanca,High school,Non-STEM,4,Student,No
+20,Male,Casablanca,High school,Non-STEM,5,Student,Yes
+28,Male,Oujda,Bachelor,STEM,5,Career shift,Yes
+25,Male,Casablanca,Master,STEM,5,Career shift,No
+27,Male,Dakhla,Bachelor,Non-STEM,1,Career shift,Yes
+32,Female,Rabat,Bachelor,Non-STEM,9,Career shift,No
+22,Male,Casablanca,High school,Non-STEM,2,Career shift,Yes
+20,Male,Tanger,PhD,STEM,5,Student,Yes
+19,Female,Agadir,Master,STEM,7,Upskilling,No
+20,Male,Fès,Bachelor,STEM,10,Entrepreneur,No
+23,Male,Marrakech,PhD,STEM,0,Student,No
+25,Male,Agadir,Bachelor,STEM,0,Career shift,No
+25,Male,Casablanca,Bachelor,STEM,10,Career shift,Yes
+27,Male,Dakhla,Master,Non-STEM,1,Student,No
+24,Male,Dakhla,Master,STEM,10,Career shift,Yes
+30,Male,Agadir,Bachelor,STEM,5,Student,No
+22,Female,Casablanca,High school,STEM,8,Student,No
+36,Male,Agadir,Bachelor,STEM,3,Student,No
+26,Male,Casablanca,Master,STEM,2,Student,No
+20,Female,Casablanca,High school,STEM,7,Entrepreneur,Yes
+19,Male,Casablanca,Bachelor,Non-STEM,10,Entrepreneur,Yes
+26,Female,Fès,Bachelor,STEM,9,Student,No
+22,Male,Oujda,Bachelor,STEM,8,Upskilling,No
+27,Female,Agadir,Bachelor,STEM,10,Upskilling,No
+26,Male,Tanger,Master,Non-STEM,4,Student,Yes
+23,Male,Rabat,High school,Non-STEM,8,Student,Yes
+20,Male,Rabat,High school,Non-STEM,1,Student,Yes
+17,Other,Rabat,High school,STEM,2,Upskilling,No
+21,Male,Dakhla,Master,STEM,6,Upskilling,No
+27,Male,Casablanca,Bachelor,STEM,6,Career shift,No
+24,Male,Oujda,Bachelor,STEM,5,Student,Yes
+18,Female,Marrakech,Master,Non-STEM,5,Student,No
+24,Male,Rabat,Master,STEM,1,Student,No
+25,Female,Agadir,Master,Non-STEM,9,Career shift,Yes
+20,Male,Fès,Master,Non-STEM,5,Upskilling,No
+24,Male,Oujda,High school,STEM,3,Student,No
+24,Male,Laayoune,Master,Non-STEM,2,Entrepreneur,No
+18,Male,Rabat,Bachelor,STEM,10,Upskilling,No
+25,Male,Casablanca,Master,STEM,1,Student,Yes
+26,Male,Marrakech,Bachelor,STEM,0,Student,Yes
+28,Female,Laayoune,Master,STEM,10,Student,No
+28,Male,Casablanca,Bachelor,STEM,10,Career shift,Yes
+17,Male,Marrakech,High school,STEM,4,Student,No
+19,Male,Marrakech,Bachelor,STEM,1,Career shift,No
+26,Male,Tanger,PhD,STEM,1,Student,No
+26,Male,Casablanca,Master,STEM,6,Career shift,No
+26,Male,Agadir,High school,STEM,7,Career shift,Yes
+41,Male,Laayoune,High school,STEM,9,Career shift,Yes
+26,Female,Casablanca,High school,STEM,7,Career shift,Yes
+29,Female,Casablanca,Bachelor,Non-STEM,3,Student,No
+28,Male,Dakhla,Master,Non-STEM,0,Student,Yes
+26,Male,Casablanca,High school,Non-STEM,10,Student,Yes
+22,Female,Oujda,Bachelor,Non-STEM,6,Career shift,No
+27,Male,Fès,Master,STEM,0,Career shift,No
+20,Male,Casablanca,Master,Non-STEM,10,Career shift,Yes
+22,Male,Oujda,Bachelor,STEM,3,Career shift,No
+21,Female,Rabat,Bachelor,STEM,7,Upskilling,No
+24,Female,Fès,Bachelor,Non-STEM,1,Career shift,Yes
+34,Male,Rabat,Bachelor,STEM,5,Student,Yes
+16,Male,Marrakech,Bachelor,Non-STEM,5,Career shift,Yes
+27,Male,Casablanca,Bachelor,Non-STEM,8,Career shift,No
+16,Female,Rabat,Master,Non-STEM,4,Student,Yes
+21,Male,Dakhla,Bachelor,Non-STEM,9,Student,No
+28,Male,Casablanca,Master,STEM,3,Career shift,No
+24,Female,Agadir,High school,STEM,4,Career shift,No
+19,Male,Rabat,Bachelor,STEM,9,Student,Yes
+20,Female,Tanger,High school,STEM,10,Career shift,No
+27,Male,Casablanca,High school,STEM,4,Career shift,No
+20,Male,Dakhla,Bachelor,Non-STEM,7,Upskilling,No
+24,Male,Fès,PhD,Non-STEM,9,Student,No
+24,Female,Casablanca,High school,STEM,7,Student,No
+21,Female,Casablanca,Bachelor,STEM,1,Student,No
+33,Female,Casablanca,Master,STEM,6,Student,No
+26,Male,Fès,High school,STEM,7,Student,No
+16,Female,Rabat,Bachelor,Non-STEM,10,Student,Yes
+24,Male,Oujda,Master,STEM,5,Student,Yes
+21,Male,Rabat,Bachelor,STEM,4,Career shift,Yes
+27,Female,Casablanca,High school,STEM,10,Student,No
+20,Male,Marrakech,Bachelor,STEM,8,Student,No
+23,Male,Agadir,Master,STEM,2,Upskilling,No
+26,Male,Casablanca,Bachelor,STEM,9,Student,No
+27,Male,Casablanca,High school,STEM,3,Student,No
+18,Male,Casablanca,Master,STEM,8,Career shift,No
+22,Male,Tanger,High school,STEM,5,Student,Yes
+21,Male,Agadir,Master,Non-STEM,7,Career shift,No
+21,Female,Fès,High school,STEM,6,Student,Yes
+31,Female,Oujda,Master,STEM,10,Career shift,Yes
+25,Male,Tanger,Bachelor,STEM,1,Student,Yes
+18,Male,Marrakech,Bachelor,Non-STEM,2,Career shift,Yes
+28,Male,Oujda,High school,STEM,0,Student,No
+33,Male,Casablanca,Bachelor,Non-STEM,8,Upskilling,No
+28,Male,Casablanca,Master,STEM,6,Career shift,Yes
+17,Female,Casablanca,PhD,STEM,0,Student,No
+21,Male,Casablanca,Bachelor,STEM,2,Student,No
+29,Male,Fès,Bachelor,STEM,3,Career shift,Yes
+20,Male,Laayoune,Bachelor,Non-STEM,3,Entrepreneur,No
+25,Male,Casablanca,Master,STEM,4,Career shift,Yes
+27,Female,Casablanca,Bachelor,STEM,2,Student,No
+19,Female,Fès,Bachelor,STEM,2,Student,No
+23,Male,Laayoune,Bachelor,STEM,0,Student,Yes
+16,Female,Rabat,Bachelor,STEM,6,Student,Yes
+19,Male,Fès,High school,STEM,10,Career shift,No
+22,Female,Casablanca,Bachelor,Non-STEM,9,Career shift,No
+18,Female,Casablanca,Bachelor,STEM,0,Student,Yes
+31,Male,Dakhla,Master,STEM,1,Student,No
+17,Male,Dakhla,High school,Non-STEM,3,Entrepreneur,No
+22,Male,Casablanca,Bachelor,STEM,3,Entrepreneur,No
+24,Male,Dakhla,Bachelor,Non-STEM,4,Entrepreneur,No
+30,Female,Marrakech,Bachelor,STEM,10,Student,No
+17,Male,Oujda,High school,Non-STEM,1,Student,No
+29,Male,Fès,Bachelor,STEM,3,Entrepreneur,No
+24,Female,Fès,Bachelor,Non-STEM,0,Student,No
+19,Other,Fès,Bachelor,Non-STEM,1,Career shift,Yes
+26,Male,Agadir,Bachelor,STEM,0,Upskilling,Yes
+24,Male,Casablanca,Bachelor,Non-STEM,9,Upskilling,No
+21,Male,Casablanca,Master,STEM,9,Student,No
+24,Male,Rabat,High school,STEM,3,Career shift,Yes
+22,Female,Agadir,Master,STEM,3,Student,No
+24,Male,Casablanca,Bachelor,STEM,6,Entrepreneur,No
+26,Male,Agadir,High school,STEM,9,Upskilling,Yes
+31,Male,Dakhla,High school,STEM,10,Career shift,No
+18,Male,Casablanca,Bachelor,STEM,10,Career shift,Yes
+33,Female,Agadir,Master,Non-STEM,8,Upskilling,Yes
+16,Female,Rabat,Bachelor,Non-STEM,8,Student,No
+23,Male,Oujda,Master,STEM,4,Student,No
+26,Male,Casablanca,Bachelor,STEM,9,Upskilling,Yes
+25,Male,Agadir,Bachelor,STEM,0,Career shift,No
+21,Female,Oujda,High school,STEM,0,Student,No
+23,Female,Dakhla,Bachelor,STEM,5,Career shift,Yes
+21,Male,Agadir,Bachelor,STEM,1,Student,Yes
+21,Male,Fès,High school,STEM,7,Entrepreneur,No
+27,Female,Marrakech,High school,Non-STEM,8,Student,Yes
+25,Male,Oujda,Bachelor,STEM,3,Upskilling,No
+20,Female,Marrakech,Master,STEM,4,Student,No
+28,Male,Casablanca,PhD,STEM,10,Student,No
+25,Male,Laayoune,Master,STEM,7,Career shift,Yes
+27,Male,Agadir,Bachelor,STEM,2,Student,No
+26,Male,Agadir,Bachelor,STEM,4,Student,No
+20,Male,Casablanca,Bachelor,STEM,2,Career shift,Yes
+21,Female,Agadir,Master,STEM,9,Student,Yes
+27,Male,Rabat,High school,Non-STEM,2,Student,Yes
+26,Male,Agadir,Bachelor,Non-STEM,2,Student,No
+23,Male,Casablanca,Master,STEM,6,Student,No
+24,Male,Agadir,Bachelor,STEM,6,Student,Yes
+29,Male,Dakhla,Bachelor,STEM,6,Career shift,No
+21,Male,Casablanca,Bachelor,STEM,9,Career shift,Yes
+26,Female,Dakhla,High school,STEM,7,Student,No
+23,Male,Rabat,Bachelor,STEM,4,Student,No
+23,Male,Oujda,Bachelor,STEM,4,Career shift,No
+28,Male,Tanger,High school,STEM,3,Entrepreneur,No
+27,Female,Marrakech,High school,STEM,6,Entrepreneur,No
+27,Female,Tanger,Master,Non-STEM,9,Student,No
+29,Female,Oujda,High school,Non-STEM,3,Career shift,No
+24,Male,Rabat,Bachelor,Non-STEM,1,Entrepreneur,No
+27,Male,Rabat,Bachelor,STEM,3,Student,Yes
+22,Male,Agadir,Master,Non-STEM,7,Entrepreneur,Yes
+25,Male,Tanger,High school,STEM,8,Entrepreneur,Yes
+23,Male,Tanger,Bachelor,Non-STEM,2,Entrepreneur,No
+24,Male,Tanger,Master,STEM,6,Student,No
+26,Male,Rabat,Master,Non-STEM,8,Career shift,No
+20,Male,Oujda,High school,STEM,10,Student,Yes
+33,Female,Casablanca,Master,Non-STEM,3,Student,No
+19,Male,Fès,Bachelor,Non-STEM,9,Student,No
+18,Male,Casablanca,Bachelor,STEM,2,Career shift,No
+29,Female,Rabat,High school,STEM,4,Career shift,No
+27,Male,Rabat,High school,Non-STEM,0,Upskilling,No
+26,Female,Rabat,Bachelor,STEM,2,Student,Yes
+26,Male,Agadir,Bachelor,Non-STEM,7,Upskilling,No
+23,Male,Rabat,Bachelor,STEM,10,Entrepreneur,Yes
+19,Female,Rabat,Bachelor,STEM,7,Student,No
+24,Female,Casablanca,Master,STEM,3,Student,No
+20,Female,Rabat,High school,STEM,1,Upskilling,No
+28,Male,Casablanca,Bachelor,Non-STEM,7,Student,Yes
+23,Male,Casablanca,High school,STEM,7,Student,No
+20,Male,Marrakech,Master,STEM,9,Career shift,No
+22,Male,Agadir,Bachelor,STEM,3,Student,Yes
+25,Female,Marrakech,Master,STEM,2,Student,No
+21,Male,Fès,High school,Non-STEM,1,Career shift,No
+20,Female,Rabat,High school,Non-STEM,8,Career shift,No
+25,Male,Oujda,Bachelor,STEM,0,Student,No
+25,Male,Fès,High school,Non-STEM,6,Career shift,Yes
+21,Male,Fès,High school,Non-STEM,4,Career shift,No
+21,Female,Casablanca,Master,STEM,7,Student,Yes
+25,Female,Rabat,High school,Non-STEM,3,Upskilling,No
+17,Female,Rabat,High school,STEM,6,Student,No
+17,Female,Rabat,Master,STEM,4,Career shift,No
+20,Female,Marrakech,Bachelor,Non-STEM,4,Career shift,Yes
+23,Female,Fès,Master,STEM,8,Student,No
+25,Male,Marrakech,High school,Non-STEM,8,Student,No
+30,Male,Tanger,Bachelor,Non-STEM,8,Entrepreneur,No
+27,Male,Oujda,High school,STEM,5,Student,No
+23,Other,Agadir,High school,Non-STEM,5,Entrepreneur,No
+23,Female,Dakhla,Master,STEM,4,Career shift,No
+19,Male,Casablanca,High school,STEM,8,Student,No
+23,Female,Casablanca,Bachelor,STEM,9,Career shift,Yes
+22,Female,Casablanca,Bachelor,Non-STEM,7,Upskilling,Yes
+25,Male,Marrakech,Bachelor,STEM,6,Student,No
+20,Male,Laayoune,Master,STEM,6,Student,No
+26,Female,Casablanca,High school,Non-STEM,5,Career shift,No
+30,Male,Laayoune,Bachelor,Non-STEM,4,Career shift,No
+23,Female,Casablanca,PhD,Non-STEM,3,Student,Yes
+25,Male,Laayoune,Bachelor,STEM,2,Career shift,No
+27,Female,Rabat,Master,STEM,2,Student,Yes
+22,Female,Casablanca,High school,STEM,5,Career shift,Yes
+25,Female,Fès,Bachelor,Non-STEM,3,Student,No
+24,Male,Casablanca,High school,STEM,5,Entrepreneur,Yes
+24,Female,Casablanca,Master,STEM,2,Entrepreneur,No
+20,Female,Rabat,PhD,Non-STEM,3,Entrepreneur,Yes
+24,Male,Tanger,High school,STEM,8,Career shift,No
+26,Female,Fès,Bachelor,Non-STEM,4,Career shift,No
+30,Male,Rabat,High school,Non-STEM,6,Student,Yes
+28,Male,Marrakech,Bachelor,Non-STEM,9,Student,No
+33,Male,Agadir,Bachelor,STEM,1,Student,No
+20,Male,Casablanca,PhD,STEM,4,Career shift,No
+27,Male,Rabat,Bachelor,Non-STEM,8,Career shift,Yes
+24,Female,Casablanca,Bachelor,Non-STEM,10,Career shift,No
+33,Male,Casablanca,High school,Non-STEM,2,Upskilling,No
+20,Female,Agadir,High school,STEM,8,Career shift,No
+20,Male,Casablanca,High school,Non-STEM,10,Student,No
+21,Male,Fès,High school,Non-STEM,5,Career shift,No
+16,Male,Agadir,Master,Non-STEM,3,Student,No
+21,Female,Casablanca,Bachelor,Non-STEM,6,Student,No
+20,Male,Marrakech,Bachelor,Non-STEM,7,Upskilling,No
+24,Female,Casablanca,High school,STEM,5,Upskilling,No
+25,Female,Dakhla,Master,STEM,4,Student,No
+32,Male,Fès,Bachelor,STEM,5,Upskilling,No
+28,Male,Tanger,High school,STEM,4,Upskilling,No
+21,Male,Marrakech,Bachelor,STEM,7,Entrepreneur,Yes
+19,Female,Casablanca,Bachelor,STEM,0,Entrepreneur,No
+26,Male,Marrakech,High school,STEM,10,Career shift,No
+18,Female,Dakhla,Bachelor,STEM,6,Student,No
+32,Male,Marrakech,Bachelor,STEM,9,Career shift,No
+29,Female,Oujda,High school,Non-STEM,9,Career shift,No
+21,Female,Laayoune,Master,Non-STEM,10,Upskilling,No
+16,Other,Casablanca,Master,STEM,1,Student,Yes
+30,Male,Casablanca,Bachelor,Non-STEM,8,Student,No
+23,Female,Marrakech,Bachelor,STEM,0,Entrepreneur,No
+29,Male,Rabat,Bachelor,STEM,10,Upskilling,No
+16,Male,Oujda,Bachelor,STEM,9,Upskilling,Yes
+21,Female,Laayoune,Bachelor,STEM,5,Career shift,No
+24,Female,Rabat,High school,Non-STEM,8,Career shift,Yes
+24,Other,Casablanca,Bachelor,Non-STEM,0,Student,Yes
+21,Female,Tanger,Master,STEM,3,Career shift,Yes
+26,Male,Casablanca,Bachelor,STEM,3,Career shift,Yes
+19,Male,Oujda,High school,STEM,8,Student,No
+23,Female,Rabat,Master,STEM,10,Entrepreneur,No
+24,Male,Agadir,High school,STEM,4,Student,No
+26,Male,Casablanca,High school,STEM,4,Student,No
+27,Male,Marrakech,High school,Non-STEM,5,Student,Yes
+18,Male,Fès,Bachelor,Non-STEM,0,Career shift,No
+17,Male,Marrakech,Master,STEM,0,Career shift,No
+29,Male,Casablanca,Bachelor,Non-STEM,8,Entrepreneur,No
+25,Male,Tanger,High school,STEM,2,Student,No
+20,Male,Oujda,Master,STEM,3,Entrepreneur,No
+30,Other,Casablanca,Master,STEM,0,Career shift,Yes
+24,Male,Casablanca,Master,STEM,8,Entrepreneur,No
+29,Male,Casablanca,High school,Non-STEM,7,Student,Yes
+24,Female,Marrakech,Bachelor,STEM,1,Student,No
+33,Male,Marrakech,PhD,STEM,7,Student,No
+31,Female,Fès,Master,STEM,6,Upskilling,No
+22,Female,Casablanca,High school,STEM,10,Student,Yes
+28,Male,Rabat,High school,Non-STEM,5,Student,No
+26,Male,Marrakech,Bachelor,STEM,0,Upskilling,Yes
+30,Female,Fès,Master,STEM,6,Entrepreneur,No
+19,Female,Dakhla,Bachelor,STEM,9,Student,Yes
+27,Male,Casablanca,Bachelor,STEM,6,Student,Yes
+28,Male,Agadir,High school,STEM,8,Student,No
+16,Male,Rabat,Bachelor,Non-STEM,0,Career shift,No
+18,Other,Rabat,Master,STEM,1,Student,Yes
+16,Male,Agadir,Bachelor,Non-STEM,10,Upskilling,Yes
+22,Female,Agadir,Master,Non-STEM,8,Upskilling,No
+27,Female,Dakhla,PhD,Non-STEM,8,Student,No
+30,Male,Casablanca,High school,STEM,5,Student,No
+24,Male,Casablanca,Bachelor,STEM,5,Career shift,Yes
+31,Male,Agadir,Bachelor,STEM,3,Upskilling,No
+17,Male,Marrakech,Master,Non-STEM,3,Upskilling,Yes
+16,Male,Casablanca,Bachelor,STEM,4,Student,Yes
+23,Male,Casablanca,Bachelor,STEM,2,Entrepreneur,No
+25,Female,Casablanca,Master,STEM,0,Student,No
+23,Male,Laayoune,Bachelor,STEM,0,Student,Yes
+16,Male,Casablanca,Master,STEM,6,Career shift,Yes
+23,Female,Rabat,Bachelor,STEM,0,Student,Yes
+18,Female,Casablanca,High school,Non-STEM,0,Student,No
+27,Female,Rabat,Bachelor,STEM,2,Student,No
+25,Other,Casablanca,Master,STEM,9,Student,Yes
+19,Male,Fès,Bachelor,STEM,3,Upskilling,Yes
+21,Male,Casablanca,Master,STEM,3,Career shift,No
+19,Female,Tanger,Master,STEM,1,Student,No
+23,Female,Casablanca,High school,Non-STEM,0,Student,No
+28,Male,Fès,PhD,STEM,2,Student,Yes
+19,Female,Laayoune,High school,Non-STEM,10,Student,Yes
+26,Male,Agadir,High school,STEM,3,Career shift,No
+21,Male,Fès,High school,STEM,2,Career shift,No
+20,Male,Rabat,Master,Non-STEM,7,Student,Yes
+23,Male,Rabat,Bachelor,STEM,9,Student,No
+19,Male,Agadir,High school,STEM,0,Career shift,Yes
+21,Male,Dakhla,Bachelor,STEM,1,Student,No
+18,Female,Agadir,Bachelor,STEM,6,Student,Yes
+32,Male,Marrakech,High school,Non-STEM,3,Student,Yes
+24,Male,Tanger,Master,STEM,7,Entrepreneur,No
+20,Female,Fès,Master,Non-STEM,10,Career shift,No
+24,Female,Casablanca,Bachelor,Non-STEM,2,Career shift,No
+23,Female,Marrakech,PhD,STEM,5,Entrepreneur,No
+23,Female,Dakhla,Bachelor,Non-STEM,8,Student,Yes
+26,Female,Casablanca,PhD,STEM,0,Student,No
+27,Male,Agadir,Bachelor,Non-STEM,0,Entrepreneur,Yes
+21,Male,Casablanca,Bachelor,STEM,7,Entrepreneur,No
+21,Male,Fès,High school,Non-STEM,2,Upskilling,No
+22,Male,Casablanca,Master,STEM,4,Student,No
+16,Male,Fès,Bachelor,STEM,0,Student,Yes
+17,Female,Tanger,High school,STEM,4,Student,No
+30,Male,Rabat,High school,Non-STEM,10,Career shift,No
+31,Male,Agadir,Bachelor,STEM,5,Student,No
+22,Male,Tanger,Bachelor,STEM,7,Career shift,Yes
+26,Female,Laayoune,Bachelor,Non-STEM,2,Upskilling,Yes
+25,Male,Casablanca,Master,Non-STEM,2,Student,No
+37,Female,Rabat,High school,Non-STEM,10,Student,No
+29,Male,Casablanca,Master,Non-STEM,10,Student,Yes
+23,Male,Dakhla,High school,Non-STEM,9,Career shift,No
+19,Male,Laayoune,Master,Non-STEM,8,Career shift,Yes
+16,Female,Fès,Master,STEM,3,Student,No
+24,Male,Oujda,Bachelor,STEM,3,Career shift,Yes
+20,Female,Fès,Bachelor,Non-STEM,6,Student,Yes
+17,Male,Marrakech,Bachelor,STEM,1,Upskilling,No
+21,Male,Casablanca,Bachelor,STEM,7,Upskilling,Yes
+19,Female,Tanger,Master,STEM,5,Student,No
+31,Female,Casablanca,Bachelor,Non-STEM,2,Career shift,No
+27,Female,Oujda,Bachelor,STEM,8,Upskilling,Yes
+23,Female,Tanger,Bachelor,STEM,4,Upskilling,No
+30,Female,Agadir,Master,STEM,7,Career shift,No
+24,Female,Casablanca,Bachelor,STEM,6,Student,Yes
+20,Female,Rabat,High school,STEM,7,Career shift,No
+30,Female,Casablanca,Bachelor,STEM,6,Entrepreneur,No
+26,Female,Rabat,Master,STEM,2,Upskilling,No
+19,Male,Casablanca,High school,Non-STEM,1,Career shift,Yes
+23,Female,Laayoune,High school,STEM,6,Upskilling,Yes
+20,Male,Marrakech,High school,Non-STEM,2,Student,Yes
+17,Female,Rabat,Bachelor,Non-STEM,2,Upskilling,No

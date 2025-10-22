@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.pytest_cache/
+.ruff_cache/
+.cursorrules
+.cursorignore
+.env
+.venv
+/venv
+.venv/
+venv/
+venv/
